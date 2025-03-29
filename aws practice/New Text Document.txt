@@ -1,0 +1,32 @@
+differene between efs and ebs
+explain if ima user has adminAccess and user should only access s3 so how we can do
+aws routing policies
+instance type
+different ports 
+s3 storage type
+s3 lifecycle 
+s3 replication
+glacier archive
+template and snapshot difference
+aws federation difine.
+firewall in aws
+iam roles and polices
+autoscalling
+vpc all
+placement group
+record type
+edge location
+security group vs NACL
+region and az in ec2
+(Aaas pass saas)
+lambda services
+how many elastic ip can we allocate to per region in aws account
+
+
+
+
+Linux---
+usermanagement 
+network mangement
+linux loader
+boot folder
